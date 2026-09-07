@@ -1,0 +1,184 @@
+about:
+  description: "chsrc 全平台通用换源工具与框架. Change Source everywhere for every software"
+  license: GPL-3.0
+  homepage: https://chsrc.run/
+  head: 3e281d4
+  archived: false
+  latestVersion: "v0.2.7"
+  collectedAt: 2026-09-07T04:52:14Z
+timeline:
+  created: 2023-09-03
+  lastCommit: 2026-09-05
+  lastRelease: 2026-08-22
+popularity:
+  star: 6877
+  watcher: 24
+  fork: 284
+  release: 13
+  contributor: 35
+  pullRequest: 169
+  issue: 195
+language:
+  C: 470488
+  Shell: 22687
+  Makefile: 10267
+  PowerShell: 9355
+  Perl: 5639
+  Just: 4987
+totalBytes: 523423
+recent:
+  last30d:
+    since: 2026-08-08
+    release: 1
+    mergedPR: 5
+    openPR: 5
+    closedIssue: 0
+    openIssue: 7
+    commit: 52
+  last60d:
+    since: 2026-07-09
+    release: 2
+    mergedPR: 12
+    openPR: 5
+    closedIssue: 3
+    openIssue: 8
+    commit: 118
+  last90d:
+    since: 2026-06-09
+    release: 2
+    mergedPR: 14
+    openPR: 5
+    closedIssue: 5
+    openIssue: 8
+    commit: 124
+  last180d:
+    since: 2026-03-11
+    release: 3
+    mergedPR: 20
+    openPR: 5
+    closedIssue: 10
+    openIssue: 9
+    commit: 151
+  last360d:
+    since: 2025-09-12
+    release: 5
+    mergedPR: 46
+    openPR: 5
+    closedIssue: 36
+    openIssue: 10
+    commit: 306
+  last720d:
+    since: 2024-09-17
+    release: 9
+    mergedPR: 113
+    openPR: 5
+    closedIssue: 133
+    openIssue: 18
+    commit: 1286
+total:
+  release: 13
+  mergedPR: 130
+  openPR: 5
+  closedIssue: 175
+  openIssue: 20
+  commit: 2109
+---
+path: /home/runner/.x-repo/github.com/RubyMetric/chsrc
+collectedAt: 2026-09-07T04:52:15Z
+loc:
+  C:
+    code: 7909
+    comments: 1713
+    blanks: 2129
+    files: 85
+  CHeader:
+    code: 1809
+    comments: 746
+    blanks: 431
+    files: 17
+  Sh:
+    code: 518
+    comments: 128
+    blanks: 113
+    files: 5
+  PowerShell:
+    code: 186
+    comments: 64
+    blanks: 49
+    files: 3
+  Makefile:
+    code: 168
+    comments: 78
+    blanks: 85
+    files: 2
+  Perl:
+    code: 108
+    comments: 22
+    blanks: 65
+    files: 1
+  Yaml:
+    code: 37
+    comments: 9
+    blanks: 7
+    files: 1
+  Bash:
+    code: 25
+    comments: 24
+    blanks: 11
+    files: 1
+  Svg:
+    code: 9
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 1275
+    blanks: 798
+    files: 27
+  Text:
+    code: 0
+    comments: 5
+    blanks: 4
+    files: 1
+total:
+  code: 11100
+  comments: 4144
+  blanks: 3765
+  files: 144
+---
+
+---
+eget:
+  collectedAt: 2026-09-07T04:52:15+00:00
+  platform:
+    darwin/arm64:
+      name:  chsrc-aarch64-macos
+      url:   https://github.com/RubyMetric/chsrc/releases/download/v0.2.7/chsrc-aarch64-macos
+      size:  300016
+      score: 40
+    darwin/amd64:
+      name:  chsrc-x64-macos
+      url:   https://github.com/RubyMetric/chsrc/releases/download/v0.2.7/chsrc-x64-macos
+      size:  275304
+      score: 40
+    linux/arm64:
+      name:  chsrc-aarch64-linux
+      url:   https://github.com/RubyMetric/chsrc/releases/download/v0.2.7/chsrc-aarch64-linux
+      size:  1051400
+      score: 40
+    linux/amd64:
+      name:  chsrc-x64-linux
+      url:   https://github.com/RubyMetric/chsrc/releases/download/v0.2.7/chsrc-x64-linux
+      size:  1234160
+      score: 40
+    win/arm64:
+      name:  chsrc-arm64-windows.exe
+      url:   https://github.com/RubyMetric/chsrc/releases/download/v0.2.7/chsrc-arm64-windows.exe
+      size:  391168
+      score: 40
+    win/amd64:
+      name:  chsrc-x64-windows.exe
+      url:   https://github.com/RubyMetric/chsrc/releases/download/v0.2.7/chsrc-x64-windows.exe
+      size:  452837
+      score: 40
