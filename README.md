@@ -23,11 +23,27 @@ x install chsrc
 - **Latest**: `v0.2.7` (2026-08-22)
 - **Last commit**: 2026-09-07
 - **Assets in release**: 12
-- **Published**: 2026-08-22T13:37:22Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [chsrc-aarch64-linux](https://github.com/RubyMetric/chsrc/releases/download/v0.2.7/chsrc-aarch64-linux) | 1.0 MiB | `native/linux/arm64` |
+| [chsrc-aarch64-macos](https://github.com/RubyMetric/chsrc/releases/download/v0.2.7/chsrc-aarch64-macos) | 293.0 KiB | `native/darwin/arm64` |
+| [chsrc-arm64-android](https://github.com/RubyMetric/chsrc/releases/download/v0.2.7/chsrc-arm64-android) | 285.6 KiB | `other` |
+| [chsrc-arm64-windows.exe](https://github.com/RubyMetric/chsrc/releases/download/v0.2.7/chsrc-arm64-windows.exe) | 382.0 KiB | `native/win/arm64` |
+| [chsrc-armv7-linux](https://github.com/RubyMetric/chsrc/releases/download/v0.2.7/chsrc-armv7-linux) | 741.9 KiB | `native/linux/arm` |
+| [chsrc-riscv64-linux](https://github.com/RubyMetric/chsrc/releases/download/v0.2.7/chsrc-riscv64-linux) | 893.8 KiB | `native/linux/riscv64` |
+| [chsrc-x64-linux](https://github.com/RubyMetric/chsrc/releases/download/v0.2.7/chsrc-x64-linux) | 1.2 MiB | `other` |
+| [chsrc-x64-macos](https://github.com/RubyMetric/chsrc/releases/download/v0.2.7/chsrc-x64-macos) | 268.9 KiB | `native/darwin/x64` |
+| [chsrc-x64-windows.exe](https://github.com/RubyMetric/chsrc/releases/download/v0.2.7/chsrc-x64-windows.exe) | 442.2 KiB | `native/win/x64` |
+| [chsrc-x86-windows.exe](https://github.com/RubyMetric/chsrc/releases/download/v0.2.7/chsrc-x86-windows.exe) | 769.4 KiB | `native/win/x64` |
+| [chsrc_0.2.7-1_amd64.deb](https://github.com/RubyMetric/chsrc/releases/download/v0.2.7/chsrc_0.2.7-1_amd64.deb) | 82.3 KiB | `runtime/deb/amd64` |
+| [chsrc_latest-1_amd64.deb](https://github.com/RubyMetric/chsrc/releases/download/v0.2.7/chsrc_latest-1_amd64.deb) | 82.3 KiB | `runtime/deb/amd64` |
 
 ## Popularity
 
-- **Stars**: 6,880 · **Forks**: 285 · **Open issues**: 195 · **Contributors**: 36
+- **Stars**: 6,882 · **Forks**: 285 · **Open issues**: 195 · **Contributors**: 36
 
 ## Totals (cumulative)
 
@@ -58,8 +74,8 @@ Total: **10,849** lines of code across **113** files in the top 5 languages.
 Install metadata for chsrc lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `chsrc` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/chsrc.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/chsrc.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:58:11Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:21:55Z._

@@ -4,7 +4,7 @@
 
 chsrc 全平台通用换源工具与框架. Change Source everywhere for every software
 
-![chsrc](https://repo.x-cmd.io/chsrc.svg)
+![chsrc](https://repo.x-cmd.io/chsrc.svg?lang=zh)
 
 ## 安装
 
@@ -23,11 +23,27 @@ x install chsrc
 - **最新版本**: `v0.2.7` (2026-08-22)
 - **最近提交**: 2026-09-07
 - **Release 含资产**: 12 个
-- **发布时间**: 2026-08-22T13:37:22Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [chsrc-aarch64-linux](https://github.com/RubyMetric/chsrc/releases/download/v0.2.7/chsrc-aarch64-linux) | 1.0 MiB | `native/linux/arm64` |
+| [chsrc-aarch64-macos](https://github.com/RubyMetric/chsrc/releases/download/v0.2.7/chsrc-aarch64-macos) | 293.0 KiB | `native/darwin/arm64` |
+| [chsrc-arm64-android](https://github.com/RubyMetric/chsrc/releases/download/v0.2.7/chsrc-arm64-android) | 285.6 KiB | `other` |
+| [chsrc-arm64-windows.exe](https://github.com/RubyMetric/chsrc/releases/download/v0.2.7/chsrc-arm64-windows.exe) | 382.0 KiB | `native/win/arm64` |
+| [chsrc-armv7-linux](https://github.com/RubyMetric/chsrc/releases/download/v0.2.7/chsrc-armv7-linux) | 741.9 KiB | `native/linux/arm` |
+| [chsrc-riscv64-linux](https://github.com/RubyMetric/chsrc/releases/download/v0.2.7/chsrc-riscv64-linux) | 893.8 KiB | `native/linux/riscv64` |
+| [chsrc-x64-linux](https://github.com/RubyMetric/chsrc/releases/download/v0.2.7/chsrc-x64-linux) | 1.2 MiB | `other` |
+| [chsrc-x64-macos](https://github.com/RubyMetric/chsrc/releases/download/v0.2.7/chsrc-x64-macos) | 268.9 KiB | `native/darwin/x64` |
+| [chsrc-x64-windows.exe](https://github.com/RubyMetric/chsrc/releases/download/v0.2.7/chsrc-x64-windows.exe) | 442.2 KiB | `native/win/x64` |
+| [chsrc-x86-windows.exe](https://github.com/RubyMetric/chsrc/releases/download/v0.2.7/chsrc-x86-windows.exe) | 769.4 KiB | `native/win/x64` |
+| [chsrc_0.2.7-1_amd64.deb](https://github.com/RubyMetric/chsrc/releases/download/v0.2.7/chsrc_0.2.7-1_amd64.deb) | 82.3 KiB | `runtime/deb/amd64` |
+| [chsrc_latest-1_amd64.deb](https://github.com/RubyMetric/chsrc/releases/download/v0.2.7/chsrc_latest-1_amd64.deb) | 82.3 KiB | `runtime/deb/amd64` |
 
 ## 流行度
 
-- **Star**: 6,880 · **Fork**: 285 · **开放 issue**: 195 · **贡献者**: 36
+- **Star**: 6,882 · **Fork**: 285 · **开放 issue**: 195 · **贡献者**: 36
 
 ## 累计统计
 
@@ -62,4 +78,4 @@ chsrc 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:58:11Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:21:55Z._
