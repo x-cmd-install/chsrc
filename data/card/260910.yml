@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.2.7"
   latestRelease: "v0.2.7"
   latestPrerelease: "pre"
-  collectedAt: 2026-09-10T04:58:06Z
+  collectedAt: 2026-09-10T16:21:50Z
 timeline:
   created: 2023-09-03
   lastCommit: 2026-09-07
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-22
   lastPrerelease: 2024-06-11
 popularity:
-  star: 6880
+  star: 6882
   watcher: 24
   fork: 285
   release: 13
@@ -88,7 +88,7 @@ total:
   commit: 2119
 ---
 path: /home/runner/.x-repo/github.com/RubyMetric/chsrc
-collectedAt: 2026-09-10T04:58:07Z
+collectedAt: 2026-09-10T16:21:51Z
 loc:
   C:
     code: 7989
