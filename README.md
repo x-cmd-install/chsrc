@@ -48,12 +48,12 @@ Total: **10,849** lines of code across **113** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 8 | 3 | 1 | 6 | 62 |
-| last60d | 2026-07-12 | 2 | 15 | 3 | 4 | 7 | 128 |
-| 90d | 2026-06-12 | 2 | 17 | 3 | 6 | 7 | 134 |
-| last180d | 2026-03-14 | 3 | 23 | 3 | 11 | 8 | 161 |
-| 360d | 2025-09-15 | 5 | 48 | 3 | 37 | 8 | 316 |
-| last720d | 2024-09-20 | 9 | 116 | 3 | 133 | 18 | 1296 |
+| 30d | 2026-08-12 | 1 | 8 | 3 | 1 | 6 | 62 |
+| last60d | 2026-07-13 | 2 | 15 | 3 | 4 | 7 | 128 |
+| 90d | 2026-06-13 | 2 | 17 | 3 | 6 | 7 | 134 |
+| last180d | 2026-03-15 | 3 | 23 | 3 | 11 | 8 | 161 |
+| 360d | 2025-09-16 | 5 | 48 | 3 | 37 | 8 | 316 |
+| last720d | 2024-09-21 | 9 | 116 | 3 | 132 | 18 | 1296 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for chsrc lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T22:34:47Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T05:00:51Z._
