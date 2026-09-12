@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1051400,
       "digest": "sha256:64e176a6cdcfdaa7f25a604ed2be62587d81dfe1e048608302384da1c4063703",
-      "download_count": 108,
+      "download_count": 110,
       "created_at": "2026-08-22T13:37:07Z",
       "updated_at": "2026-08-22T13:37:10Z",
       "browser_download_url": "https://github.com/RubyMetric/chsrc/releases/download/v0.2.7/chsrc-aarch64-linux"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 300016,
       "digest": "sha256:951c5e4e9073d4f78e4610cce9b4bddb65094d966dc742d9d8931919ed743e8e",
-      "download_count": 93,
+      "download_count": 95,
       "created_at": "2026-08-22T13:36:42Z",
       "updated_at": "2026-08-22T13:36:44Z",
       "browser_download_url": "https://github.com/RubyMetric/chsrc/releases/download/v0.2.7/chsrc-aarch64-macos"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 391168,
       "digest": "sha256:3f25fd4693e75bcc0f51fa79df67b113717fdebbb3f376b20ce52f3c3bdc9048",
-      "download_count": 26,
+      "download_count": 27,
       "created_at": "2026-08-22T13:36:46Z",
       "updated_at": "2026-08-22T13:36:48Z",
       "browser_download_url": "https://github.com/RubyMetric/chsrc/releases/download/v0.2.7/chsrc-arm64-windows.exe"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 1234160,
       "digest": "sha256:70d236dbd346e969a3d2abe507343eb07419be494ff40fd117cad44c619465d5",
-      "download_count": 248,
+      "download_count": 251,
       "created_at": "2026-08-22T13:36:53Z",
       "updated_at": "2026-08-22T13:36:59Z",
       "browser_download_url": "https://github.com/RubyMetric/chsrc/releases/download/v0.2.7/chsrc-x64-linux"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 275304,
       "digest": "sha256:d512b13df67d11506b3bc9dfa99b9eae8c742864bf5b58bb6743f7593ab9758c",
-      "download_count": 88,
+      "download_count": 90,
       "created_at": "2026-08-22T13:36:59Z",
       "updated_at": "2026-08-22T13:37:01Z",
       "browser_download_url": "https://github.com/RubyMetric/chsrc/releases/download/v0.2.7/chsrc-x64-macos"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 452837,
       "digest": "sha256:d6ac2e4988bae1a0ab20711e677a85d13006e479c6e13120984e546a3373addf",
-      "download_count": 705,
+      "download_count": 710,
       "created_at": "2026-08-22T13:37:01Z",
       "updated_at": "2026-08-22T13:37:03Z",
       "browser_download_url": "https://github.com/RubyMetric/chsrc/releases/download/v0.2.7/chsrc-x64-windows.exe"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 787873,
       "digest": "sha256:0d01a2b580b460ca9e90263fdb09692874c0efe72fa82abf8f02f2001df29f5d",
-      "download_count": 88,
+      "download_count": 89,
       "created_at": "2026-08-22T13:37:03Z",
       "updated_at": "2026-08-22T13:37:06Z",
       "browser_download_url": "https://github.com/RubyMetric/chsrc/releases/download/v0.2.7/chsrc-x86-windows.exe"
