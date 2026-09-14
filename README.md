@@ -48,12 +48,12 @@ Total: **10,849** lines of code across **113** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 8 | 3 | 1 | 5 | 62 |
-| last60d | 2026-07-15 | 2 | 15 | 3 | 4 | 7 | 128 |
-| 90d | 2026-06-15 | 2 | 16 | 3 | 5 | 7 | 134 |
-| last180d | 2026-03-17 | 3 | 22 | 3 | 11 | 8 | 161 |
-| 360d | 2025-09-18 | 5 | 48 | 3 | 36 | 8 | 316 |
-| last720d | 2024-09-23 | 9 | 116 | 3 | 128 | 18 | 1296 |
+| 30d | 2026-08-15 | 1 | 6 | 3 | 1 | 5 | 25 |
+| last60d | 2026-07-16 | 2 | 15 | 3 | 4 | 7 | 125 |
+| 90d | 2026-06-16 | 2 | 16 | 3 | 5 | 7 | 133 |
+| last180d | 2026-03-18 | 3 | 21 | 3 | 11 | 8 | 149 |
+| 360d | 2025-09-19 | 5 | 48 | 3 | 35 | 8 | 311 |
+| last720d | 2024-09-24 | 9 | 116 | 3 | 128 | 18 | 1288 |
 
 ## Release assets
 
@@ -72,15 +72,6 @@ Total: **10,849** lines of code across **113** files in the top 5 languages.
 | [chsrc_0.2.7-1_amd64.deb](https://github.com/RubyMetric/chsrc/releases/download/v0.2.7/chsrc_0.2.7-1_amd64.deb) | 82.3 KiB | `runtime/deb/amd64` |
 | [chsrc_latest-1_amd64.deb](https://github.com/RubyMetric/chsrc/releases/download/v0.2.7/chsrc_latest-1_amd64.deb) | 82.3 KiB | `runtime/deb/amd64` |
 
-## Distribution status
-
-Reported by **10** distros on [repology.org](https://repology.org/project/chsrc). **5** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.2.7` | ✅ latest |
-| Nix unstable | `0.2.7` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for chsrc lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `chsrc` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -90,4 +81,4 @@ Install metadata for chsrc lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:06:33Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:13:23Z._
