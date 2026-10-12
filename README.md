@@ -38,22 +38,22 @@ Total: **10,849** lines of code across **113** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 6,897 · **Forks**: 285 · **Open issues**: 198 · **Contributors**: 36
+- **Stars**: 6,897 · **Forks**: 285 · **Open issues**: 199 · **Contributors**: 36
 
 ## Totals (cumulative)
 
-- **Releases**: 13 · **Merged PRs**: 133 · **Open PRs**: 3 · **Closed issues**: 175 · **Open issues**: 23 · **Commits**: 2119
+- **Releases**: 13 · **Merged PRs**: 133 · **Open PRs**: 3 · **Closed issues**: 175 · **Open issues**: 24 · **Commits**: 2119
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 0 | 0 | 0 | 0 | 3 | 0 |
-| last60d | 2026-08-12 | 1 | 8 | 3 | 1 | 9 | 90 |
-| 90d | 2026-07-13 | 2 | 15 | 3 | 4 | 10 | 128 |
-| last180d | 2026-04-14 | 2 | 18 | 3 | 10 | 10 | 140 |
-| 360d | 2025-10-16 | 4 | 35 | 3 | 26 | 11 | 250 |
-| last720d | 2024-10-21 | 8 | 113 | 3 | 118 | 21 | 1247 |
+| 30d | 2026-09-12 | 0 | 0 | 0 | 0 | 4 | 0 |
+| last60d | 2026-08-13 | 1 | 8 | 3 | 1 | 9 | 40 |
+| 90d | 2026-07-14 | 2 | 15 | 3 | 4 | 11 | 128 |
+| last180d | 2026-04-15 | 2 | 18 | 3 | 10 | 11 | 139 |
+| 360d | 2025-10-17 | 4 | 35 | 3 | 26 | 12 | 250 |
+| last720d | 2024-10-22 | 8 | 113 | 3 | 118 | 22 | 1247 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for chsrc lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T05:56:35Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T06:11:45Z._
