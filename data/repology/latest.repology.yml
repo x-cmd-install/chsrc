@@ -1,0 +1,113 @@
+- repo: aur
+  srcname: chsrc
+  binname: chsrc
+  visiblename: chsrc
+  version: 0.2.7
+  origversion: 0.2.7-4
+  status: newest
+  summary: A cli tool to change source for every software on every platform
+  maintainers:
+    - terrasse@aur
+    - ccmywish@aur
+  licenses:
+    - GPL-3.0-or-later
+    - MIT
+- repo: aur
+  srcname: chsrc-bin
+  binname: chsrc-bin
+  visiblename: chsrc-bin
+  version: 0.2.7
+  origversion: 0.2.7-2
+  status: newest
+  summary: A cli tool to change source for every software on every platform
+  maintainers:
+    - terrasse@aur
+    - ccmywish@aur
+  licenses:
+    - GPL-3.0-or-later
+    - MIT
+- repo: aur
+  srcname: chsrc-git
+  binname: chsrc-git
+  visiblename: chsrc-git
+  version: 20260907.r2119.0bcc4c22
+  origversion: 20260907.r2119.0bcc4c22-1
+  status: rolling
+  summary: A cli tool to change source for every software on every platform
+  maintainers:
+    - terrasse@aur
+    - ccmywish@aur
+  licenses:
+    - GPL-3.0-or-later
+    - MIT
+- repo: homebrew
+  srcname: chsrc
+  visiblename: chsrc
+  version: 0.2.7
+  origversion: null
+  status: newest
+  summary: Change Source for every software on every platform from the command-line
+- repo: homebrew
+  srcname: chsrc
+  visiblename: chsrc
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Change Source for every software on every platform from the command-line
+- repo: nix_stable_25_05
+  srcname: chsrc
+  visiblename: chsrc
+  version: 0.2.1
+  origversion: null
+  status: outdated
+  summary: Change Source everywhere for every software
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - GPL-3.0-or-later
+    - MIT
+- repo: nix_stable_25_11
+  srcname: chsrc
+  visiblename: chsrc
+  version: 0.2.3
+  origversion: null
+  status: outdated
+  summary: Change Source everywhere for every software
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - GPL-3.0-or-later
+    - MIT
+- repo: nix_stable_26_05
+  srcname: chsrc
+  visiblename: chsrc
+  version: 0.2.4
+  origversion: null
+  status: outdated
+  summary: Change Source everywhere for every software
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - GPL-3.0-or-later
+    - MIT
+- repo: nix_unstable
+  srcname: chsrc
+  visiblename: chsrc
+  version: 0.2.7
+  origversion: null
+  status: newest
+  summary: Change Source everywhere for every software
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - GPL-3.0-or-later
+    - MIT
+- repo: scoop
+  subrepo: main
+  binname: chsrc
+  visiblename: chsrc
+  version: 0.2.7
+  origversion: null
+  status: newest
+  licenses:
+    - GPL-3.0-or-later,MIT
