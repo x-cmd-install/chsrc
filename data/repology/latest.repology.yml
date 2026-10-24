@@ -30,8 +30,8 @@
   srcname: chsrc-git
   binname: chsrc-git
   visiblename: chsrc-git
-  version: 20260907.r2119.0bcc4c22
-  origversion: 20260907.r2119.0bcc4c22-1
+  version: 20261023.r2122.03dd727e
+  origversion: 20261023.r2122.03dd727e-1
   status: rolling
   summary: A cli tool to change source for every software on every platform
   maintainers:
