@@ -14,12 +14,12 @@ x install chsrc
 
 ## Code insight
 
-Total: **10,849** lines of code across **113** files in the top 5 languages.
+Total: **10,847** lines of code across **113** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 7,989 | 1,745 | 2,158 | 86 |
-| CHeader | 1,809 | 746 | 431 | 17 |
+| C | 7,989 | 1,744 | 2,158 | 86 |
+| CHeader | 1,807 | 756 | 434 | 17 |
 | Sh | 518 | 128 | 113 | 5 |
 | PowerShell | 186 | 64 | 49 | 3 |
 | Makefile | 168 | 78 | 85 | 2 |
@@ -33,27 +33,27 @@ Total: **10,849** lines of code across **113** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.2.7` (2026-08-22)
-- **Last commit**: 2026-09-07
+- **Last commit**: 2026-10-23
 - **Assets in release**: 12
 
 ## Popularity
 
-- **Stars**: 6,906 · **Forks**: 283 · **Open issues**: 199 · **Contributors**: 36
+- **Stars**: 6,908 · **Forks**: 283 · **Open issues**: 199 · **Contributors**: 36
 
 ## Totals (cumulative)
 
-- **Releases**: 13 · **Merged PRs**: 133 · **Open PRs**: 3 · **Closed issues**: 175 · **Open issues**: 24 · **Commits**: 2119
+- **Releases**: 13 · **Merged PRs**: 133 · **Open PRs**: 3 · **Closed issues**: 177 · **Open issues**: 22 · **Commits**: 2122
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 0 | 0 | 0 | 0 | 4 | 0 |
-| last60d | 2026-08-24 | 0 | 4 | 2 | 1 | 8 | 23 |
-| 90d | 2026-07-25 | 2 | 13 | 3 | 2 | 11 | 119 |
-| last180d | 2026-04-26 | 2 | 17 | 3 | 10 | 11 | 139 |
-| 360d | 2025-10-28 | 4 | 33 | 3 | 26 | 12 | 232 |
-| last720d | 2024-11-02 | 8 | 106 | 3 | 115 | 22 | 1189 |
+| 30d | 2026-09-24 | 0 | 0 | 0 | 1 | 3 | 3 |
+| last60d | 2026-08-25 | 0 | 4 | 2 | 2 | 7 | 26 |
+| 90d | 2026-07-26 | 1 | 13 | 3 | 4 | 9 | 122 |
+| last180d | 2026-04-27 | 2 | 17 | 3 | 12 | 9 | 142 |
+| 360d | 2025-10-29 | 4 | 33 | 3 | 28 | 10 | 235 |
+| last720d | 2024-11-03 | 8 | 106 | 3 | 117 | 20 | 1192 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for chsrc lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T04:58:51Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T04:50:23Z._
